@@ -65,5 +65,6 @@ This project is designed to streamline the process of analyzing blockchain trans
     python reports/visualizations/generate_visualization.py
     ```
 
-![Data Flow](https://github.com/prakharsdev/Blockchain_Transaction_Tax_Reporting_System/assets/26145700/d9e3f45a-fee2-4451-a7ea-c39cf5e56171)
+
+![Data Flow (1)](https://github.com/prakharsdev/Blockchain_Transaction_Tax_Reporting_System/assets/26145700/e651a992-53e0-4e74-aff3-f501adf08519)
 

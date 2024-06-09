@@ -1,0 +1,13 @@
+{
+    "project_id": "your-gcp-project-id",
+    "region": "us-central1",
+    "entry_point": "main",
+    "runtime": "python39",
+    "memory": "256MB",
+    "timeout": "60s",
+    "environment_variables": {
+      "ENV": "production",
+      "LOG_LEVEL": "info"
+    }
+  }
+  

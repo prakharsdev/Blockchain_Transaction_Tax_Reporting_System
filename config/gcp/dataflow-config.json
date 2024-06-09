@@ -1,0 +1,10 @@
+{
+    "project_id": "your-gcp-project-id",
+    "temp_location": "gs://your-bucket/temp",
+    "staging_location": "gs://your-bucket/staging",
+    "region": "us-central1",
+    "max_num_workers": 5,
+    "worker_machine_type": "n1-standard-1",
+    "autoscaling_algorithm": "THROUGHPUT_BASED"
+  }
+  

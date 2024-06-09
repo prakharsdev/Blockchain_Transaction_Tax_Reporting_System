@@ -1,0 +1,8 @@
+{
+    "project_id": "your-gcp-project-id",
+    "dataset_id": "your_bigquery_dataset",
+    "location": "US",
+    "default_table_expiration": 3600,
+    "default_partition_expiration": 86400
+  }
+  

@@ -18,7 +18,7 @@ This project is designed to streamline the process of analyzing blockchain trans
 - Python 3.8 or higher
 - Google Cloud SDK
 - Neo4j
-- Docker (optional)
+- PostgreSQL
 
 ### Installation
 
